@@ -1,0 +1,5 @@
+John Doe deposited 2000.0. New balance: 7000.0
+Failed deposit attempt by John Doe with amount -50.0
+John Doe withdrew 1000.0. New balance: 6000.0
+Failed withdrawal attempt by John Doe with amount 7000.0
+John Doe checked balance. Current balance: 6000.0
